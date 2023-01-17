@@ -1,4 +1,26 @@
-div {color: gray; background-color: beige; text-align: center;}
-img {width:600px; height: auto;}
-button {background-color: white; font-size: 18px; color:gray;}
-.blueberry {height:auto; width:250px;}
+html {box-sizing: border-box;}
+
+.body{margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 30px;
+margin-right: 30px;
+padding: 20px}
+*{box-sizing: border-box;
+color:black;
+background-color: honeydew;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding:20px;}
+
+.link {display:block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+font-size:large;
+max-width: 300px;
+max-height: 400px;
+border-style: dashed;
+border-color: gray;
+padding: 10px}
+
+
